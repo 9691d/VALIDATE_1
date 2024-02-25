@@ -3,6 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background: green;
+}
+
+
 .container{
     position: relative;
     display: flex;
